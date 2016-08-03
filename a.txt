@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adfsafdfsadfsafafdsa
 sdfsafdsafdsafdsafdsaf
+=======
+sdafdsa dsafsa fdsa dfsada 
+>>>>>>> ee9e92b591c4e57e6debb7adb2232d7718776be6
